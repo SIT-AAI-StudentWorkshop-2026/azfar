@@ -10,6 +10,6 @@ Fun Fact: I like to cycle
 
 ## Student B’s Contribution
 
-Name: 
+Name: Joshua
 
-Fun Fact: 
+Fun Fact: I love to run

@@ -4,9 +4,9 @@ Fill in your Name and 1 Fun Fact about yourself in the section below.
 # Worksheet
 
 ## Student A’s Introduction
-Name: azfar
+Name: Azfar
 
-Fun Fact: funny
+Fun Fact: I like to cycle
 
 ## Student B’s Contribution
 

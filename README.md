@@ -10,6 +10,6 @@ Fun Fact: I love to run
 
 ## Student B’s Contribution
 
-Name: thambi 
+Name: 
 
-Fun Fact: he loves coding
+Fun Fact: 
